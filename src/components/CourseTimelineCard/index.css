@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.heading-and-duration {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.react-icon-and-duration {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tags-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.tag-name {
+  background-color: lightslategray;
+  margin: 5px;
+  padding: 2px;
+  border-radius: 4px;
+  color: #1e293b;
+  font-size: 12px;
+  font-weight: 600;
+}
